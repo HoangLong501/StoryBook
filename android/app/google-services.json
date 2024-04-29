@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "277864273650",
+    "firebase_url": "https://social-network-66e3f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "social-network-66e3f",
+    "storage_bucket": "social-network-66e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277864273650:android:2e040795add7a9015c626b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_mN84TDzqg5BEK56jsN6LfGb3qs8CgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
